@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d2bb9525c977a8ca88b6cee410153bf18f6c8ed">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9123dbffe9fa1dbce2d71f7c410479354254980c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_eb28d293992bf18443534dadf358e77b27c6f754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\9b98505c7a7b32f69f36e8628a4171d172061370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_fbd69b43af76961514758ffa51f3e3ccda499e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\919d26df2396115d4e9ba4f0ad52864b8b1b6573\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_dd0153ff37e3cfca2c4816dacabf77c059753c67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_74ba19e19a29447b659e5711b7e70173996376f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_ac4563d3b2b0160de0ce884d19cd2caa46590bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\690c71790ef1b56910563de30719306cc5e6a006\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_248d9df95578b7325ac1a8f27b7a1ff623cd0cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\492214b5873cfc3bbcb9775d2abd173840ba103b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_93d55e33d1d76f2e4a76211c9d907472cc7ed621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\a10dae1739a85f156b4df5e42a315f0e31b9f505\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_d7cec56aafe8479be7206917bb97df8eb1db7368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\8be90edfed35817ce98afa67182d432568e03106\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_264be2df0205d4b2e2b93f1aeaf8e799e26d450c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\96a8f140b4b8e8d8978cbdf12600ad011c767b02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_5d5d31da14454259e1dc8b179b85c4c1d07b50fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\44889d9a3dcafb574ee8e91dd332ef52ed84db41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_2aae219bd5d4d331dcac4dda5a8d685cc4abf6f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\e78e1efe87f38aac9328001fc296712f4a060157\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_b2a17fb89583744bb81dc5a22562f6622354425f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\roosh\.android\build-cache\7844855f218e6de30fdc83feb189476be96a1727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\roosh\AndroidStudioProjects\SnakesandLadders2\app\build\intermediates\pre-dexed\debug\classes_60fc8e74450b8490544ddd524a779216f9580bf6.jar" />
+    </item>
+
+</items>
